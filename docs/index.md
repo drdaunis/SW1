@@ -2,7 +2,7 @@
 
 This is the landing page for our course. Come here for announcments and stuff.
 
-## Welcome to StatPREP. 
+## Welcome to Statway 1 - Math Fast Track
 
 This page contains links and other student-facing information for StatPREP activities.
 
